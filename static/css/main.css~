@@ -1312,7 +1312,6 @@ outline: 0;
   color: #FE980F ;
 }
 
-
 .right {
   right: 0;
 }
